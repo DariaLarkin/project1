@@ -1,2 +1,2 @@
 # project1
-Installe and configure Filebeat with Ansible playbooks
+Install and configure Filebeat with Ansible playbooks
